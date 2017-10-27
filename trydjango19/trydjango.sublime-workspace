@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"append"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"man",
+				"man4"
+			],
+			[
+				"sal",
+				"Salaried_Commission_Employee"
+			],
+			[
+				"sa",
+				"Salaried_Commission_Employee"
+			],
+			[
+				"ca",
+				"calculateSalary"
+			],
+			[
+				"Sa",
+				"Salaried_Commission_Employee"
+			],
+			[
+				"S",
+				"Salaried_Employee"
+			],
+			[
+				"ho",
+				"hours"
+			],
+			[
+				"hou",
+				"hourlyRate"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"pro",
+				"productDiscount"
+			],
+			[
+				"bi",
+				"bill1"
+			],
+			[
+				"cust",
+				"cust1"
+			],
+			[
+				"cus",
+				"Customer"
+			],
+			[
+				"m",
+				"Membership"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"data",
+				"data1"
+			],
+			[
+				"cou",
+				"count8"
+			],
+			[
+				"in",
+				"inside2"
+			],
+			[
+				"f",
+				"flag"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"ele",
+				"elevator_time"
+			],
+			[
+				"sta",
+				"stair_time"
+			],
+			[
+				"ini",
+				"initial"
+			],
+			[
+				"x",
+				"x_triples"
+			],
+			[
+				"coun",
+				"count"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"d",
+				"d1"
+			],
+			[
+				"com",
+				"company_index"
+			],
+			[
+				"co",
+				"company_index"
+			],
+			[
+				"C",
+				"C2"
+			],
+			[
+				"R",
+				"R2"
+			],
+			[
+				"ma",
+				"maximum"
+			],
+			[
+				"c",
+				"c1"
+			],
+			[
+				"me",
+				"mean"
+			],
+			[
+				"mean",
+				"mean"
+			],
+			[
+				"mea",
+				"meandev_1"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"lo",
+				"low"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"hi",
+				"high_index"
+			],
+			[
+				"MEA",
+				"mean1"
+			],
+			[
+				"check",
+				"check_1"
+			],
+			[
+				"max_",
+				"max_sum"
+			],
+			[
+				"max",
+				"max_sum"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"an",
+				"ans"
+			],
+			[
+				"n",
+				"n1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 377,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/admin.py",
+			"settings":
+			{
+				"buffer_size": 114,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango19/settings.py",
+			"settings":
+			{
+				"buffer_size": 3192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/asagtani/Desktop/trydjango19",
+		"/home/asagtani/Desktop/trydjango19/src",
+		"/home/asagtani/Desktop/trydjango19/src/posts",
+		"/home/asagtani/Desktop/trydjango19/src/posts/migrations",
+		"/home/asagtani/Desktop/trydjango19/src/trydjango19"
+	],
+	"file_history":
+	[
+		"/home/asagtani/Desktop/1.py",
+		"/home/asagtani/Desktop/python2.py",
+		"/media/asagtani/Rough/trydjango/src/restaurants/views.py",
+		"/media/asagtani/Rough/trydjango/src/muypicky/urls.py",
+		"/media/asagtani/Rough/trydjango/src/templates/base.html",
+		"/media/asagtani/Rough/trydjango/muipicky.sublime-workspace",
+		"/home/asagtani/Desktop/Saloon.java",
+		"/home/asagtani/Desktop/ShoppingMall.java",
+		"/home/asagtani/Desktop/check.py",
+		"/home/asagtani/Desktop/sep long/minperm.py",
+		"/home/asagtani/Desktop/codeforce1.py",
+		"/home/asagtani/Desktop/august long/palin.py",
+		"/home/asagtani/Desktop/amitsagtani97.github.io/index.html",
+		"/home/asagtani/Desktop/Codeforce/switch_bulb.py",
+		"/home/asagtani/Desktop/Codeforce/chess.py",
+		"/home/asagtani/Desktop/august long/salary.py",
+		"/home/asagtani/Desktop/Codeforce/erase.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":\n",
+			"exit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/asagtani/Desktop/trydjango19"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/posts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/posts/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/trydjango19/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1080,
+								1080
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
